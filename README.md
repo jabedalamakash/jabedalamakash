@@ -15,7 +15,6 @@
 
 
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jabedalamakash&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jabedalamakash&theme=vue-dark&hide_border=false)<br/>
@@ -28,7 +27,13 @@
 
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jabedalamakash&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=jabedalamakash&icon=4&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
