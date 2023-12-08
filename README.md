@@ -6,7 +6,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jabedalamakash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jabedalamakash) 
 
-
+[![](https://visitcount.itsvg.in/api?id=jabedalamakash&icon=4&color=11)](https://visitcount.itsvg.in)
 
 
 ## Languages and Tools:
@@ -29,10 +29,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jabedalamakash&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-[![](https://visitcount.itsvg.in/api?id=jabedalamakash&icon=4&color=11)](https://visitcount.itsvg.in)
 
 
 
