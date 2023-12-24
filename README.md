@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">I'm a passionate Front-end Web Developer</h3>
-
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/jabedalamakash/cdn_skyfoundation/programmer.png" alt="jabedalamakash" /> </p>
 
 ## Connect with me:
 
